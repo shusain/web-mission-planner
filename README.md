@@ -25,3 +25,11 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.dev/tools/cli) page.
+
+---
+
+This project is a heavy work in progress excuse the dust but it might be useful to someone out there.
+
+To build edit the src/index.html inlcude your google maps API key (can get from https://console.developers.google.com/ create an "app" there and associate/enable the javascript maps API to be able to use)
+
+![map](https://github.com/user-attachments/assets/ec06b5e5-c9c4-4162-9467-9cf200e2fb3f)
